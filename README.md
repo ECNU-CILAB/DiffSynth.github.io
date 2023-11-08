@@ -1,2 +1,2 @@
-# anonymous456852.github.io
-An anonymous project page of DiffSynth.
+# DiffSynth
+The official project page of DiffSynth.
